@@ -1,0 +1,34 @@
+tchevrie
+
+Cursus : C Piscine
+
+Shell_00 : 100
+Shell_01 : 65
+
+C_00 : 77
+C_01 : 100
+C_02 : 85
+C_03 : 75
+C_04 : 100
+C_05 : 100
+C_06 : 100
+C_07 : 100
+C_08 : 100
+C_09 : 100
+C_10 : not registered
+C_11 : 100
+C_12 : not registered
+C_13 : not registered
+
+Rush_00 : 92
+Rush_01 : abandoned project
+Rush_02 : not registered
+
+BSQ : 50
+
+Exam 00 : 100
+Exam 01 : 100
+Exam 02 : 100
+Final exam : 90
+
+>> Final level : 10.61%
